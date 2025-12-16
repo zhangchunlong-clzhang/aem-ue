@@ -5,6 +5,6 @@
     "/content/wknd-xwalk/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/wknd-xwal/"
+    "/content/wknd-xwalk/"
   ]
 }
