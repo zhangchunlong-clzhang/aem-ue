@@ -2,9 +2,9 @@
 function getAEMHost() {
   let host;
   if (window.location.hostname.endsWith('adobeaemcloud.com')) {
-    host = 'https://author-p156903-e1726641.adobeaemcloud.com';
+    host = 'https://author-p177906-e1869765.adobeaemcloud.com';
   } else {
-    host = 'https://publish-p156903-e1726641.adobeaemcloud.com';
+    host = 'https://author-p177906-e1869765.adobeaemcloud.com';
   }
   // Remove trailing slash if present
   if (host.endsWith('/')) {
